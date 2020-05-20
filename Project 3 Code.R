@@ -1,4 +1,5 @@
-#This program has my portion of code for conducting a chi-square test for AirBnB data in New York City.
+#This program has my portion of code for conducting a chi-square test for AirBnB data in New York City,
+#and plotting this data onto a bar graph.
 
 #Open and Configure Life Expectancy Data File
 airBData = read.csv(file.choose(), header=TRUE)
